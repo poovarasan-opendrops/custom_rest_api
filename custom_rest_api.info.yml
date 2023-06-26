@@ -1,0 +1,7 @@
+name: "Custom Rest API"
+description: "Rest api method of POST GET PATCH DELETE"
+package: Custom
+dependencies:
+  - rest
+type: module
+core_version_requirement: ^9 || ^10.0.0
